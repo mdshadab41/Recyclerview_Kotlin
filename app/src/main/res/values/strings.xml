@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerviewDemo</string>
+    <string name="food_item_1">Food Item 1</string>
+    <string name="rs_200">RS.200</string>
+</resources>
